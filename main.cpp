@@ -14,7 +14,7 @@ int main()
 {
 	cout << "______________________________________" << endl; //输出界面 
 	cout << "         Perpetual Calendar" << endl;
-	cout << "                  created by 李智" << endl;
+	cout << "                  created by Lizhi" << endl;
 	bool bExit = false;
 	string com = "Y";
 	CCalender Calender;
